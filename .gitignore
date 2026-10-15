@@ -143,4 +143,11 @@ allure-results/
 allure-report/
 cypress/screenshots/
 cypress/videos/
+cypress/downloads/
+cypress.env.json
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
 
